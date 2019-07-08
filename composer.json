@@ -1,0 +1,10 @@
+{
+    "name": "pawel-jakowczyk/function-autowiring",
+    "authors": [
+        {
+            "name": "Pawel",
+            "email": "jakowczyk87@gmail.com"
+        }
+    ],
+    "require": {}
+}
