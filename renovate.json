@@ -3,9 +3,11 @@
     "config:base"
   ],
   "packageRules": [
-    "updateTypes": [
-      "major"
-    ],
-    "enabled": false
+    {
+      "updateTypes": [
+        "major"
+      ],
+      "enabled": false
+    }
   ]
 }
