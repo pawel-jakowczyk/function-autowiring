@@ -4,6 +4,7 @@
   ],
   "packageRules": [
     {
+      "rangeStrategy": "update-lockfile",
       "updateTypes": [
         "major"
       ],
