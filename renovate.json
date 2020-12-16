@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "packageRules": [
+    {
+      "rangeStrategy": "update-lockfile",
+      "updateTypes": [
+        "major"
+      ],
+      "enabled": false
+    }
+  ]
+}
